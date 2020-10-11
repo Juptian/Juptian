@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there!
 
 <!--
 **Juptian/Juptian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey, I'm juptian, I'm somebody who does coding in their spare time and loves it!
+
+I'm currently working on a Game Engine in C++ and a game in Unity/C#! They're both going... well...
+
+I enjoy learning and its literally the only reason I do anything anymore 
