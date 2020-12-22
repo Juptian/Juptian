@@ -25,7 +25,7 @@ My main languages for programming are C++ and JavaScript.
 
 I am bilingual, I speak English and French.
 
-If you want to reach me, for whatever reason, you may contact me on discord. My discord name and tag is `Juptian#2839`
+If you want to reach me, for whatever reason, you may contact me on discord or via my business email. My discord name and tag is `Juptian#2839`, and my business email is `juptianbusiness@gmail.com`
 
 ## Un peut a propos de moi
 Je suis un étudient d'école secondaire qui espère d'étudier l'informatique au Collège.
@@ -34,4 +34,4 @@ Mes languages primaries pour la programmation sont le C++ et le JavaScript.
 
 Je suis bilingue, je parle Français et Anglais.
 
-Si vous voulez me contactez, pour une raison ou une autre, vous pouvez le faire sur discord, mon nom sur discord est `Juptian#2839`
+Si vous voulez me contactez, pour une raison ou une autre, vous pouvez le faire sur discord ou par courielle. Mon nom sur discord est `Juptian#2839`, est mon adresse courielle est `juptianbusiness@gmail.com`
