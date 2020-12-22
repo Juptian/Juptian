@@ -27,7 +27,7 @@ I am bilingual, I speak English and French.
 
 If you want to reach me, for whatever reason, you may contact me on discord. My discord name and tag is `Juptian#2839`
 
-## Un peut a propos de mois
+## Un peut a propos de moi
 Je suis un étudient d'école secondaire qui espère d'étudier l'informatique au Collège.
 
 Mes languages primaries pour la programmation sont le C++ et le JavaScript.
