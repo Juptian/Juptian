@@ -21,7 +21,7 @@ Bonjour, je suis Juptian, et je suis quelqu'un qui aime faire la programmation d
 ## A bit about me
 I'm a highschool student who hopes to go into Computer Science when I go into colledge.
 
-My main languages for programming are C++, C# and JavaScript.
+My main languages for programming are C++, C#, Java, and JavaScript.
 
 I am bilingual, I speak English and French.
 
@@ -30,7 +30,7 @@ If you want to reach me, for whatever reason, you may contact me on discord or v
 ## Un peut a propos de moi
 Je suis un étudient d'école secondaire qui espère d'étudier l'informatique au Collège.
 
-Mes languages primaries pour la programmation sont le C++, C# et le JavaScript.
+Mes languages primaries pour la programmation sont le C++, C#, Java et le JavaScript.
 
 Je suis bilingue, je parle Français et Anglais.
 
