@@ -18,14 +18,14 @@ Hello, I am Juptian, I am someone who likes to program in their spare time.
 
 Bonjour, je suis Juptian, et je suis quelqu'un qui aime faire la programmation dans leurs temps d'extras.
 
-## A bit about me
+<h2 align="center">A bit about me</h2>
 I'm a highschool student who hopes to go into Computer Science when I go into colledge.
 
 I am bilingual, I speak English and French.
 
 If you want to reach me, for whatever reason, you may contact me on discord or via my business email. My discord name and tag is `Juptian#2839`, and my business email is `juptianbusiness@gmail.com`
 
-## Un peu a propos de moi
+<h2 align="center">Un peu a propos de moi</h2>
 Je suis un étudient d'école secondaire qui espère d'étudier l'informatique au Collège.
 
 
