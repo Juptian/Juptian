@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello/Bonjour!
+<h1 align="center"> Hello/Bonjour! </h1>
 Hello, I am Juptian, I am someone who likes to program in their spare time.
 
 Bonjour, je suis Juptian, et je suis quelqu'un qui aime faire la programmation dans leurs temps d'extras.
