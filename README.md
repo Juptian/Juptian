@@ -25,7 +25,7 @@ I am bilingual, I speak English and French.
 
 If you want to reach me, for whatever reason, you may contact me on discord or via my business email. My discord name and tag is `Juptian#2839`, and my business email is `juptianbusiness@gmail.com`
 
-## Un peut a propos de moi
+## Un peu a propos de moi
 Je suis un étudient d'école secondaire qui espère d'étudier l'informatique au Collège.
 
 
