@@ -36,4 +36,4 @@ Je suis bilingue, je parle Français et Anglais.
 
 Si vous voulez me contactez, pour une raison ou une autre, vous pouvez le faire sur discord ou par courielle. Mon nom sur discord est `Juptian#2839`, est mon adresse courielle est `juptianbusiness@gmail.com`
 
-![Juptian's Github stats](https://github-readme-stats.vercel.app/api?username=Juptian)
+![Juptian's Github stats](https://github-readme-stats.vercel.app/api?username=Juptian&theme=monokai)
