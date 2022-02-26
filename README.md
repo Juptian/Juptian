@@ -19,7 +19,7 @@ Hello, I am Juptian, I am someone who likes to program in their spare time.
 Bonjour, je suis Juptian, et je suis quelqu'un qui aime faire la programmation dans leurs temps d'extras.
 
 <h2 align="center">A bit about me</h2>
-I'm a highschool student who hopes to go into Computer Science when I go into colledge.
+I'm a high school student who hopes to go into Computer Science when I go into colledge.
 
 I am bilingual, I speak English and French.
 
