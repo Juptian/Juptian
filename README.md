@@ -13,24 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hello/Bonjour! </h1>
-Hello, I am Juptian, I am someone who likes to program in their spare time.
+<h1 align="center"> Sébastien Gosselin </h1>
+<p /> <h3 align="center"/> A bilingual problem-solver
 
-Bonjour, je suis Juptian, et je suis quelqu'un qui aime faire la programmation dans leurs temps d'extras.
+<p>
+  <h2 align="center">A bit about me</h2>
+    I'm a bilingual programmer with 5+ years of programming experience in C#, JavaScript, C++, and Python. I have a certification in Cybersecurity and will be going to University for computer science, hoping to specialize into Computer Science once I'm allowed to choose my classes.
+</p>
 
-<h2 align="center">A bit about me</h2>
-I'm a high school student who hopes to go into Computer Science when I go into colledge.
-
-I am bilingual, I speak English and French.
-
-If you want to reach me, for whatever reason, you may contact me on discord or via my business email. My discord name and tag is `Juptian#2839`, and my business email is `juptianbusiness@gmail.com`
-
-<h2 align="center">Un peu a propos de moi</h2>
-Je suis un étudient d'école secondaire qui espère d'étudier l'informatique au Collège.
-
-
-Je suis bilingue, je parle Français et Anglais.
-
-Si vous voulez me contacter, pour une raison ou une autre, vous pouvez le faire sur discord ou par courielle. Mon nom sur discord est `Juptian#2839`, est mon adresse courielle est `juptianbusiness@gmail.com`
+<p>
+<h2 align="center">Un peu à mon sujet</h2>
+Je suis un programmeur bilingue avec plus de 5 ans d'expérience qui utilise principalement C#, JavaScript, C++ et Python. J'ai une certification en Cybersécurité et je serai allé à l'université pour la génie informatique, èspérant de spécializé en Cybersécurité quand j'aura l'habilité de choisir mes classes.
+</p>
 
 ![Juptian's top language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Juptian&theme=monokai) ![Juptian's Github stats](https://github-readme-stats.vercel.app/api?username=Juptian&theme=monokai)
